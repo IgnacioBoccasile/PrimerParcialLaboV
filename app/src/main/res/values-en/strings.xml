@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">First Partial Exam</string>
+
+    <string name="txt_nombre">Product name</string>
+
+    <string name="txt_cantidad">Amount:</string>
+
+    <string name="txt_precioUnidad">Price:</string>
+
+    <string name="btn_guardar">EDIT</string>
+
+    <string name="txt_guardado">Data entered succesfully!</string>
+
+    <string name="txt_noGuardado">Incomplete data!</string>
+
+    <string name="editarProducto">Modify</string>
+</resources>

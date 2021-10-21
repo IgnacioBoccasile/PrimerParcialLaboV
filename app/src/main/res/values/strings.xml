@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Primer Parcial</string>
+
+    <string name="txt_nombre">Nombre del producto</string>
+
+    <string name="txt_cantidad">Cantidad:</string>
+
+    <string name="txt_precioUnidad">Precio:</string>
+
+    <string name="btn_guardar">EDITAR</string>
+
+    <string name="txt_guardado">Datos guardados exitosamente!</string>
+
+    <string name="txt_noGuardado">Datos incompletos!</string>
+
+    <string name="editarProducto">Modificar</string>
+</resources>
